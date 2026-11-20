@@ -1,4 +1,4 @@
-# PhonePe Pulse: Data Exploration
+# PhonPe Pulse: Data Exploration
 
 PhonePe Pulse is PhonePe's open data platform that tracks digital payment trends across India. This project explores its state and district level data (2018 to 2021) using Python.
 
